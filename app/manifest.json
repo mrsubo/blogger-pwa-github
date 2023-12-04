@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "SUBOPEDIA",
+  "short_name": "SUBOPEDIA",
+  "description": "Install Subopedia.com In Your Home Page",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
@@ -90,10 +90,10 @@
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
-      "short_name": "My Shortcut 1",
-      "description": "My Shortcut 1 description goes here...",
-      "url": "/search/label/my-shortcut-1?utm_source=homescreen",
+      "name": "SUBOPEDIA 1",
+      "short_name": "SUBOPEDIA 1",
+      "description": "Hub Of Information",
+      "url": "https://www.subopedia.com",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
@@ -102,10 +102,10 @@
       ]
     },
     {
-      "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
-      "description": "My Shortcut 2 description goes here...",
-      "url": "/search/label/my-shortcut-2?utm_source=homescreen",
+      "name": "SUBOPEDIA 2",
+      "short_name": "SUBOPEDIA 2",
+      "description": "Hub Of Information",
+      "url": "https://www.subopedia.com",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
