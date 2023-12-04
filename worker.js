@@ -29,7 +29,7 @@ const APP_CONFIG = {
   },
   github: {
     username: '<mrsubo>',
-    repository: '<mrsubo/blogger-pwa-github>',
+    repository: '<blogger-pwa-github>',
     branch: '<main>',
     /**
      * If the repository is private, provide token as string
